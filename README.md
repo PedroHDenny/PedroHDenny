@@ -1,36 +1,29 @@
-## Oi, eu sou o @PedroHDenny 👀
+# 👋 Hi, I'm Pedro Henrique (@PedroHDenny)
 
-Estou no inicio da minha carreira de desenvolvedor. 💻 
+I'm currently a student of **Analysis and Systems Development** at Fatec Indaiatuba and at the beginning of my journey as a developer.  
+I'm passionate about technology and have been focusing on learning programming languages, web development, and modern tools.
 
-Tenho me dedicado a aprender novas linguagens e ferramentas, e estou animado(a) para colocar em prática o que estou aprendendo. 🚀
+💡 I'm excited to apply what I'm learning in real projects and grow as a software developer.
 
+---
 
+## 🔧 Skills & Technologies
+- HTML, CSS, Bootstrap  
+- PHP with Laravel  
+- MySQL  
+- C++ (basic)  
+- Git & GitHub  
+- Visual Studio Code
 
-## 📫 Como me encontrar: 
+---
 
-<div>
-  <img align="center" alt="PedroInsta" height="65" width="210" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</div>
-@pedrodennyre_
+## 📚 Currently learning
+- Back-end development with PHP & Laravel  
+- System analysis and database modeling  
+- Team collaboration with version control tools
 
-## 📚 O que estou estudando/estudei
-- Curso Análise e Desenovlvimento de Sistemas
-- Básico de Desenvolvimento Web
+---
 
-Estou sempre aberto a sugestões, dicas e colaborações.✔
-
-
-<!--
-**PedroHDenny/PedroHDenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's connect!
+📸 Instagram: [@pedrodennyre_](https://instagram.com/pedrodennyre_)  
+📫 Always open to tips, ideas, and collaborations!
